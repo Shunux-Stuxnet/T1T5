@@ -31,4 +31,4 @@
 >T1T5 >> 1,2,3,4       --> Multiple Runs
 >T1T5 >> all           --> All run
 ```
-###### For any help in between or to see avaliable options type : ``` hel ``` 
+###### For any help in between or to see avaliable options type : ``` help ``` 
